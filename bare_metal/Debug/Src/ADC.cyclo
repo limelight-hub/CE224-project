@@ -1,0 +1,4 @@
+../Src/ADC.c:4:6:ADC_ClockConfig	3
+../Src/ADC.c:36:6:ADC_Config	2
+../Src/ADC.c:59:6:ADC_Start	2
+../Src/ADC.c:70:10:ADC_GetValue	2
